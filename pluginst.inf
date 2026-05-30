@@ -1,7 +1,0 @@
-[plugininstall]
-description=RSS Reader
-Version=1.0.0
-type=wfx
-file=wfx_rss.wfx
-defaultdir=RSS_Reader
-descriprion=Plugin for reading newsfeeds.
